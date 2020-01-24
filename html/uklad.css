@@ -1,0 +1,60 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+ text-align: center;
+ color:green;
+ font-family: Helvetica;
+ border: 5px solid green;
+ padding: 10px;
+ cursor: crosshair;
+}
+h2 {
+ color: yellow;
+ background-color: green;
+ text-align: center;
+}
+body {
+  background-color: black;
+}
+nav ul {
+text-align: center;
+font-family: Impact;
+}
+
+#akapit {
+ color: red;
+ font-family: "League Gothic", Impact, sans-serif;
+ line-height: 0.9em;
+ letter-spacing: 0.01em;
+ text-transform: uppercase;
+ font-size: 100px;
+}
+#akapit2 {
+ color: red ;
+}
+
+section{
+ text-align: center;
+ color: yellow;
+ font-family: Arial;
+ border: 5px dotted yellow;
+ padding: 10px;
+}
+
+table{
+color: yellow;
+}
+table, th, td {
+ border: 1px solid yellow;
+}
+
+
+#koniec{
+ text-align: center;
+ color: white;
+}
